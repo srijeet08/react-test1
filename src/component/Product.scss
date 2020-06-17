@@ -1,0 +1,32 @@
+.product-detail-page{
+  .flex-grid{
+      display: flex;
+      flex-flow: row wrap;
+      align-items: center;
+      > div{
+          width:50%;
+      }
+      .product-image{
+          img{
+              width: 100%;
+          }
+      }
+      .product-Detail{
+          text-align: left;
+          >div{
+              padding:0 20px;
+          }
+          ul{
+              padding-left:20px;
+          }
+          
+      }
+  }
+  .red-text{
+      color:red;
+      font-weight:normal
+  }
+  .green-text{
+      color:green;
+  }
+}

@@ -1,0 +1,211 @@
+[
+  {
+    "productId": "1",
+    "productName": "Bailley Packaged Drinking Water 500 ML Pack of 24",
+    "productPrice": "240.00",
+    "productImage": "/product-img-01.jpg",
+    "producer": "Bailley",
+    "inStock": 10,
+    "productDescription": [
+      {
+        "descText": "Alkaline natural mineral water - pH8.0"
+      },
+      {
+        "descText": "Originates from the foothills of the Aravalli, oldest mountain range in the world"
+      },
+      {
+        "descText": "Natural , no ro , no UV, no Ozonation, no chemical treatment just truly natural mineral water Bottled at the source , completely untouched by human hand , pristine natural mineral water, naturally enriched with calcium , magnesium , silica and alkalinity"
+      }
+    ]
+  },
+  {
+    "productId": "2",
+    "productName": "Aava Natural Mineral Water Alkaline 1 L Cup Cap - Pack of 12",
+    "productPrice": "899.00",
+    "productImage": "/product-img-05.jpg",
+    "producer": "Aava Natural Mineral Water",
+    "inStock": 100,
+    "productDescription": [
+      {
+        "descText": "Alkaline natural mineral water - pH8.0"
+      },
+      {
+        "descText": "Originates from the foothills of the Aravalli, oldest mountain range in the world"
+      },
+      {
+        "descText": "Natural , no ro , no UV, no Ozonation, no chemical treatment just truly natural mineral water Bottled at the source , completely untouched by human hand , pristine natural mineral water, naturally enriched with calcium , magnesium , silica and alkalinity"
+      }
+    ]
+  },
+  {
+    "productId": "3",
+    "productName": "Bailley Packaged Drinking Water 5 Liter Pack of 2",
+    "productPrice": "140",
+    "productImage": "/product-img-04.jpg",
+    "producer": "Bailley",
+    "inStock": 10,
+    "productDescription": [
+      {
+        "descText": "Alkaline natural mineral water - pH8.0"
+      },
+      {
+        "descText": "Originates from the foothills of the Aravalli, oldest mountain range in the world"
+      },
+      {
+        "descText": "Natural , no ro , no UV, no Ozonation, no chemical treatment just truly natural mineral water Bottled at the source , completely untouched by human hand , pristine natural mineral water, naturally enriched with calcium , magnesium , silica and alkalinity"
+      }
+    ]
+  },
+  {
+    "productId": "4",
+    "productName": "Product4",
+    "productPrice": "251",
+    "productImage": "/product-img-03.jpg",
+    "producer": " Aava Natural Mineral Water",
+    "inStock": 1000,
+    "productDescription": [
+      {
+        "descText": "Alkaline natural mineral water - pH8.0"
+      },
+      {
+        "descText": "Originates from the foothills of the Aravalli, oldest mountain range in the world"
+      },
+      {
+        "descText": "Natural , no ro , no UV, no Ozonation, no chemical treatment just truly natural mineral water Bottled at the source , completely untouched by human hand , pristine natural mineral water, naturally enriched with calcium , magnesium , silica and alkalinity"
+      }
+    ]
+  },
+  {
+    "productId": "5",
+    "productName": "Product5",
+    "productPrice": "225",
+    "productImage": "/product-img-01.jpg",
+    "producer": " Aava Natural Mineral Water",
+    "inStock": 0,
+    "productDescription": [
+      {
+        "descText": "Alkaline natural mineral water - pH8.0"
+      },
+      {
+        "descText": "Originates from the foothills of the Aravalli, oldest mountain range in the world"
+      },
+      {
+        "descText": "Natural , no ro , no UV, no Ozonation, no chemical treatment just truly natural mineral water Bottled at the source , completely untouched by human hand , pristine natural mineral water, naturally enriched with calcium , magnesium , silica and alkalinity"
+      }
+    ]
+  },
+  {
+    "productId": "6",
+    "productName": "Product6",
+    "productPrice": "252",
+    "productImage": "/product-img-02.jpg",
+    "producer": " Aava Natural Mineral Water",
+    "inStock": 101,
+    "productDescription": [
+      {
+        "descText": "Alkaline natural mineral water - pH8.0"
+      },
+      {
+        "descText": "Originates from the foothills of the Aravalli, oldest mountain range in the world"
+      },
+      {
+        "descText": "Natural , no ro , no UV, no Ozonation, no chemical treatment just truly natural mineral water Bottled at the source , completely untouched by human hand , pristine natural mineral water, naturally enriched with calcium , magnesium , silica and alkalinity"
+      }
+    ]
+  },
+  {
+    "productId": "7",
+    "productName": "Product7",
+    "productPrice": "325",
+    "productImage": "/product-img-03.jpg",
+    "producer": " Aava Natural Mineral Water",
+    "inStock": 1001,
+    "productDescription": [
+      {
+        "descText": "Alkaline natural mineral water - pH8.0"
+      },
+      {
+        "descText": "Originates from the foothills of the Aravalli, oldest mountain range in the world"
+      },
+      {
+        "descText": "Natural , no ro , no UV, no Ozonation, no chemical treatment just truly natural mineral water Bottled at the source , completely untouched by human hand , pristine natural mineral water, naturally enriched with calcium , magnesium , silica and alkalinity"
+      }
+    ]
+  },
+  {
+    "productId": "8",
+    "productName": "Product8",
+    "productPrice": "235",
+    "productImage": "/product-img-04.jpg",
+    "producer": " Aava Natural Mineral Water",
+    "inStock": 0,
+    "productDescription": [
+      {
+        "descText": "Alkaline natural mineral water - pH8.0"
+      },
+      {
+        "descText": "Originates from the foothills of the Aravalli, oldest mountain range in the world"
+      },
+      {
+        "descText": "Natural , no ro , no UV, no Ozonation, no chemical treatment just truly natural mineral water Bottled at the source , completely untouched by human hand , pristine natural mineral water, naturally enriched with calcium , magnesium , silica and alkalinity"
+      }
+    ]
+  },
+  {
+    "productId": "9",
+    "productName": "Product9",
+    "productPrice": "253",
+    "productImage": "/product-img-05.jpg",
+    "producer": " Aava Natural Mineral Water",
+    "inStock": 199,
+    "productDescription": [
+      {
+        "descText": "Alkaline natural mineral water - pH8.0"
+      },
+      {
+        "descText": "Originates from the foothills of the Aravalli, oldest mountain range in the world"
+      },
+      {
+        "descText": "Natural , no ro , no UV, no Ozonation, no chemical treatment just truly natural mineral water Bottled at the source , completely untouched by human hand , pristine natural mineral water, naturally enriched with calcium , magnesium , silica and alkalinity"
+      }
+    ]
+  },
+  {
+    "productId": "10",
+    "productName": "Product10",
+    "productPrice": "25",
+    "productImage": "/product-img-01.jpg",
+    "producer": " Aava Natural Mineral Water",
+    "inStock": 12,
+    "productDescription": [
+      {
+        "descText": "Alkaline natural mineral water - pH8.0"
+      },
+      {
+        "descText": "Originates from the foothills of the Aravalli, oldest mountain range in the world"
+      },
+      {
+        "descText": "Natural , no ro , no UV, no Ozonation, no chemical treatment just truly natural mineral water Bottled at the source , completely untouched by human hand , pristine natural mineral water, naturally enriched with calcium , magnesium , silica and alkalinity"
+      }
+    ]
+  },
+  {
+    "productId": "11",
+    "productName": "Product11",
+    "productPrice": "25",
+    "productImage": "/product-img-02.jpg",
+    "producer": " Aava Natural Mineral Water",
+    "inStock": 0,
+    "productDescription": [
+      {
+        "descText": "Alkaline natural mineral water - pH8.0"
+      },
+      {
+        "descText": "Originates from the foothills of the Aravalli, oldest mountain range in the world"
+      },
+      {
+        "descText": "Natural , no ro , no UV, no Ozonation, no chemical treatment just truly natural mineral water Bottled at the source , completely untouched by human hand , pristine natural mineral water, naturally enriched with calcium , magnesium , silica and alkalinity"
+      }
+    ]
+  }
+]
